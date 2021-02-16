@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rails', '~> 5.0'
+gem 'rails', '~> 6.0', '>= 6.0.3.5'
 
 gem 'mocha'
 gem 'minitest-rg'
