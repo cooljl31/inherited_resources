@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'rails', '~> 5.0'
+gem 'rails', '~> 5.2', '>= 5.2.4.6'
 
 gem 'mocha'
 gem 'minitest-rg'
-gem 'rails-controller-testing'
+gem 'rails-controller-testing', '>= 1.0.1'
